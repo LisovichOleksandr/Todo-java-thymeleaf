@@ -30,7 +30,7 @@ Repository — доступ до бази даних
 ▶️ Запуск проєкту
 Клонувати репозиторій:
 
-git clone https://github.com
+git clone https://github.com/LisovichOleksandr/Todo-java-thymeleaf.git
 Створити базу даних у PostgreSQL
 Налаштувати application.properties
 Запустити застосунок:
